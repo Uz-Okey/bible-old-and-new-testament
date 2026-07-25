@@ -131,7 +131,7 @@ export default function SiteFooter({
           </div>
         </div>
 
-        <div className="border-t border-beige-300/80 dark:border-brown-700/80 mt-8 pt-8 text-center">
+        <div className="border-t border-beige-300/80 dark:border-brown-700/80 mt-8 pt-7 text-center">
           <p className="font-sans text-sm text-beige-600 dark:text-brown-400">
             &copy; {year}{' '}
             <a
